@@ -1,0 +1,49 @@
+{
+  "app.header.about" : "Sobre",
+  "app.header.experience" : "Experiencias",
+  "app.header.skills" : "Habilidades",
+  "app.header.projects" : "Proyectos",
+  "app.header.contact": "Contacto",
+
+  "app.hero.hello": "Hola, mi nombre es",
+  "app.hero.work": "Desarrollador Full-stack.",
+  "app.hero.downloadCV": "Descargar CV",
+  "app.hero.contact": "Entre en contacto",
+
+  "app.about.title": "SOBRE MI",
+  "app.about.paragraph-one": "Me considero un entusiasta de la tecnología y su impacto en nuestro día a día, me gusta buscar retos y salir de mi zona de confort. Soy Licenciado en Sistemas de Información y posgrado en Ingeniería de Software, siempre estoy en la búsqueda de nuevos aprendizajes en las más diversas áreas del conocimiento, porque creo que el conocimiento es fundamental para el éxito.",
+  "app.about.paragraph-two": "A medida que mejoro mis habilidades y amplío mis conocimientos, me doy cuenta de que el aprendizaje es un proceso placentero e infinito en constante evolución.",
+
+  "app.experience.title": "EXPERIENCIA",
+  "app.experience.one.company": "E-Confi",
+  "app.experience.one.position": "Desarrollador Front-end",
+  "app.experience.one.description-one": "Cree aplicaciones con interfaces receptivas, cree códigos bien estructurados, eficientes y comprobables, haciendo uso de las mejores prácticas de desarrollo de software. Integrar datos a través del consumo de servicios back-end, crear y mantener documentación del software desarrollado, entre otros.",
+  "app.experience.one.description-two": "Herramientas más utilizadas: ReactJS, NextJs, Typescript.",
+  "app.experience.one.date": "09/08/2021 - 09/05/2022",
+
+  "app.experience.two.company": "Trinus Co",
+  "app.experience.two.position": "Full-stack Desarrollador",
+  "app.experience.two.description-one": "Desarrollo de interfaces front-end y back-end basados en la pila de Javascript, aplicando principios de desarrollo SOLID, pruebas unitarias y de integración, además de las mejores prácticas de código limpio.",
+  "app.experience.two.description-two": "Herramientas más utilizadas: ReactJS, Typescript, NodeJS, Express, Postgres and SQL Server",
+  "app.experience.two.date": "06/06/2022 - Actualmente",
+  
+  "app.skills.title": "HABILIDADES",
+  "app.skills.react": "Biblioteca creada por Facebook enfocada a crear interfaces de forma declarativa, eficiente y flexible.",
+  "app.skills.next": "Next.js es un marco web de desarrollo front-end de React de código abierto creado por Vercel que habilita funcionalidades como la representación del lado del servidor y la generación de sitios web estáticos para aplicaciones web basadas en React.",
+  "app.skills.reactnative": "React Native es una biblioteca de Javascript creada por Facebook. Se utiliza para desarrollar aplicaciones para sistemas Android e iOS de forma nativa.",
+  "app.skills.firebase": "Firebase es una plataforma desarrollada por Google para crear aplicaciones móviles y web.",
+  "app.skills.figma": "Figma es una herramienta de interfaz de usuario en línea gratuita creada para crear, colaborar, crear prototipos e inspeccionar.",
+  "app.skills.git": "Es un sistema de control de versiones distribuido, utilizado principalmente en el desarrollo de software, pero se puede utilizar para registrar el historial de edición de cualquier tipo de archivo.",
+  "app.skills.postgres": "PostgreSQL es un sistema de gestión de bases de datos relacionales de objetos, desarrollado como un proyecto de código abierto.",
+  "app.skills.sqlserver": "Microsoft SQL Server es un sistema de administración de bases de datos relacionales mantenido por Microsoft.",
+  "app.skills.nodejs": "Node.js es un software multiplataforma de código abierto basado en el intérprete V8 de Google que le permite ejecutar código JavaScript fuera de un navegador web.",
+   "app.skills.nestjs":"NestJS es un marco Node.js de código abierto diseñado para el desarrollo de aplicaciones del lado del servidor.",
+
+  "app.projects.title": "PROYECTOS",
+  "app.projects.title-used-technology" : "Tecnologías utilizadas",
+  "app.projects.visit-button": "Visita",
+  "app.projects.one.description": "Trabajo freelance desarrollando la interfaz de una plataforma de seguimiento y gestión financiera.",
+  "app.projects.two.description": "Reto propuesto durante un proceso de selección de desarrollador front-end. Es un formulario de preguntas y respuestas sobre varios temas, al final tenemos un resumen de las respuestas.",
+  "app.projects.three.description": "Es un juego que tiene como objetivo que los niños practiquen las enseñanzas adquiridas en la escuela de forma lúdica utilizando la temática del juego POKEMON.",
+  "app.projects.four.description": "Proyecto colaborativo con la finalidad de incorporación en la cartera. Es una aplicación web para consultar anime en la api kitsu, con paginación y búsqueda de texto."
+}

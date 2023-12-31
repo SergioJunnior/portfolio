@@ -1,0 +1,36 @@
+export default {
+  colors: {
+    mainbg: '#191D20',
+    redPrimary: '#ff1100',
+    redSecondary: '#f44336',
+    bluePrimary: '#003366',
+    blueSecondary: '#4c7093',
+    white: '#ffffff',
+  },
+  media: {
+    sm: '560px',
+    md: '990px',
+    lg: '1250px',
+  },
+  font: {
+    family: 'Poppins, sans-serif',
+    light: 300,
+    normal: 400,
+    medium: 500,
+    bold: 700,
+    sizes: {
+      Atomic: '0.625rem',
+      Nano: '0.75rem',
+      XxxSmall: '1rem',
+      XxSmall: '1.25rem',
+      XSmall: '1.5rem',
+      Small: '2rem',
+      SMedium: '2.5rem',
+      Large: '3rem',
+      XLarge: '3.5rem',
+      XxLarge: '4rem',
+      XxxLarge: '4.8rem',
+      Giant: '8rem',
+    },
+  },
+} as const;
