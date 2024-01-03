@@ -14,7 +14,7 @@ export const ExperienceSection = styled.section`
         width: 160px;
 
         @media (max-width: ${theme.media.md}) {
-          width: 110px;
+          width: 155px;
         }
       }
     }

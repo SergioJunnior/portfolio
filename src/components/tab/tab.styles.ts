@@ -8,8 +8,8 @@ export const TabContainer = styled.div`
     width: 100%;
 
     aside {
-      min-width: 150px;
-      margin-right: 2rem;
+      min-width: 130px;
+      margin-right: 1rem;
       z-index: 0;
 
       button {

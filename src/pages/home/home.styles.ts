@@ -13,7 +13,7 @@ export const Name = styled.h1`
     }
 
     @media (max-width: ${theme.media.sm}) {
-      font-size: ${theme.font.sizes.Large};
+      font-size: ${theme.font.sizes.XxLarge};
       line-height: 1.4;
     }
   `}
@@ -24,7 +24,17 @@ export const About = styled.div`
 `;
 
 export const Welcome = styled.div`
-  display: flex;
+  ${({ theme }) => css`
+    display: flex;
+    h1 {
+      font-size: ${theme.font.sizes.xLarge};
+      font-weight: ${theme.font.medium};
+
+      @media (max-width: ${theme.media.sm}) {
+        font-size: ${theme.font.sizes.SMedium};
+      }
+    }
+  `}
 `;
 
 export const HomeSection = styled.section`

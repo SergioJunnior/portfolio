@@ -4,7 +4,7 @@ import styled, { css } from 'styled-components';
 export const Title = styled.h2`
   ${({ theme }) => css`
     color: ${theme.colors.white};
-    font-size: ${theme.font.sizes.XxLarge};
+
     position: relative;
     opacity: 0;
 
@@ -16,7 +16,7 @@ export const Title = styled.h2`
       height: 16px;
       background-color: ${theme.colors.redSecondary};
       position: absolute;
-      bottom: 6px;
+      bottom: 10px;
       z-index: -1;
       border-radius: 1px;
     }
@@ -31,15 +31,13 @@ export const Title = styled.h2`
     }
 
     @media (max-width: ${theme.media.md}) {
-      font-size: ${theme.font.sizes.Large};
-
       &:before {
-        height: 10px;
-        bottom: 5px;
+        height: 15px;
+        bottom: 10px;
       }
 
       &.active:before {
-        width: 61px;
+        width: 71px;
       }
     }
   `}
